@@ -1,42 +1,62 @@
-# Hi, I'm Prikishit Bhardwaj! 👋
-
-## 🚀 About Me
-- 👨‍🎓 A student at **Masai School**, currently pursuing the **SDET (Software Development Engineer in Test) program**.
-- 💻 Passionate about **automation testing**, **manual testing**, and exploring the depths of **software development**.
-- 🌐 Skilled in tools like **Cypress**, **Selenium**, **Postman**, **Jira**, and **Zephyr**.
-- 📚 An avid learner with a keen interest in **coding** and **literature**.
+# 👋 Hi, I'm Prikishit Bhardwaj!  
 
 ---
 
-## 🛠️ Technical Skills
-- **Programming Languages:** JavaScript, Java
-- **Testing Tools & Frameworks:** Cypress, Selenium, Postman
-- **Other Tools:** Jira, Zephyr, Browser DevTools
-- **Version Control:** Git, GitHub
-- **Web Automation:** Proficient in working with XPath, iframes, and Cucumber with Cypress.
+## 🚀 About Me  
+🌟 **Aspiring Software Development Engineer in Test (SDET)**  
+🎓 Student at **Masai School**, passionate about **testing** and **software development**.  
+📚 Always eager to learn, innovate, and create impactful projects!  
 
 ---
 
-## 🌟 Projects
+## 🛠️ Technical Skills  
 
-### 🔹 **GlobalSQA Manual Testing**
-- Performed comprehensive **manual testing** covering **performance**, **functionality**, **UI/UX**, and **usability** aspects.
-- Designed a detailed **mind map** and documented test cases and bug reports.
+### 🚦 Programming & Scripting  
+- 💻 **Languages:** JavaScript, Java  
 
-### 🔹 **Automation Testing with Cypress**
-- Developed and executed test scripts using Cypress for **website automation**.
-- Documented test cases, bug reports, and generated detailed performance insights.
+### 🛠️ Testing Tools  
+- ✅ **Automation Frameworks:** Cypress, Selenium  
+- 🛠️ **API Testing:** Postman  
+- 🔗 **Issue Tracking & Test Management:** Jira, Zephyr  
 
-### 🔹 **E-commerce Testing (Ninja Turtle Web App)**
-- Automated test cases for an e-commerce platform, focusing on core functionalities like login, search, and checkout.
-
----
-
-## 📫 Let's Connect!
-- **Email:** [your-email@example.com]
-- **LinkedIn:** [Your LinkedIn Profile](#)
-- **GitHub:** [Your GitHub Profile](https://github.com/your-username)
+### 🖥️ Other Tools  
+- 🌐 **Version Control:** Git, GitHub  
+- ⚡ **Web Automation Expertise:** XPath, iframes, Cucumber  
 
 ---
 
-**Fun Fact:** I named ChatGPT as "Edith" after Tony Stark's personal AI! 😊
+## 🌟 Featured Projects  
+
+### 📋 **GlobalSQA Manual Testing**  
+- 🧪 Conducted **manual testing** focusing on **performance**, **functionality**, **UI/UX**, and **usability**.  
+- 🗺️ Designed a **mind map** to outline test cases and flows.  
+- 🐛 Documented **bug reports** with actionable suggestions.  
+
+### 🧪 **Cypress Automation Project**  
+- 🤖 Automated **website testing** scripts using Cypress.  
+- 📄 Prepared **test reports**, including **screenshots** and **videos** for execution insights.  
+- 🚀 Improved overall **website quality assurance** through automation.  
+
+### 🛍️ **E-commerce Testing - Ninja Turtle Web App**  
+- 🛒 Automated workflows for an e-commerce platform.  
+- 🔍 Focused on testing critical features like **login**, **search**, and **checkout**.  
+
+---
+
+## 📫 Let's Connect  
+
+💌 **Email:** [your-email@example.com](mailto:your-email@example.com)  
+🖤 **GitHub:** [@prikishitbhardwaj](https://github.com/prikishitbhardwaj)  
+
+---
+
+## ✨ Fun Fact  
+
+🧠 I named ChatGPT as "Edith," inspired by Tony Stark's AI assistant in the Marvel Universe! 🦸‍♂️  
+
+---
+
+## 🌟 Keep Exploring  
+
+🎯 "Don't just code; test, break, and innovate!"  
+Feel free to explore my projects and connect with me for collaborations!  
