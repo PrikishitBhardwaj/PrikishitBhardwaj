@@ -45,8 +45,8 @@
 
 ## 📫 Let's Connect  
 
-💌 **Email:** [your-email@example.com](mailto:your-email@example.com)  
-🖤 **GitHub:** [@prikishitbhardwaj](https://github.com/prikishitbhardwaj)  
+💌 **Email:** (mailto:bhardwajprikishit@gmail.com)  
+📞 **Contact** (+971 52 198 1117) or (+91 90567 36503)
 
 ---
 
