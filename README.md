@@ -46,8 +46,8 @@
 ## 📫 Let's Connect  
 
 💌 **Email:** (mailto:bhardwajprikishit@gmail.com)  
-📞 **Contact** (+971 52 198 1117) or (+91 90567 36503)
-
+📞 **Contact** +971 52 198 1117 or +91 90567 36503
+🧒💼 **LinkedIn** Visit Profile: (https://www.linkedin.com/in/prikishit-bhardwaj-456423326/)
 ---
 
 ## ✨ Fun Fact  
